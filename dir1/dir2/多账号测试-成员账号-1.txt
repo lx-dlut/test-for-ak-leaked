@@ -1,0 +1,4 @@
+ak: LTAI5tLBgcgEVzvzC1eQfer6
+sk: p4l123458c7gl4NPej612345Yl23qL
+
+  sddp_multi_member@test.aliyunid.com ram：lx-test-1

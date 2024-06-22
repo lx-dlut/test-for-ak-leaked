@@ -1,4 +1,4 @@
-ak: LTAI5tRQShiExcTHTfL1A4JQ
-sk: NAsAOoCFJuHsi14vUMitzBkrjReW12
+ak: LTAI5t8Bp7EMjuXd6mGQBLcg
+sk: NAsAOoCFJuHsi14vUM12zBkrjReW12
 //该AK对应用户无任何权限，仅用于测试云安全中心AK泄漏模块
 //且SK是无效的

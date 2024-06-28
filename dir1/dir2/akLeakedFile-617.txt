@@ -1,3 +1,0 @@
-ak:LTAI5tPF2f7kDwYKB3cpP1tc
-sk:4kav02ICoJZnH88HY6VNAivRY12345
-// ak为已禁用状态 且sk是无效的 仅用于测试
